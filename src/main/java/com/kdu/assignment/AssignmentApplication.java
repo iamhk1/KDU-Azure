@@ -16,7 +16,7 @@ public class AssignmentApplication {
 		@GetMapping("/")
 		public String index() {
 
-			return "Hello,Harsh Kachhawa KD Batch-24<Azure>!";
+			return "Hello,Harsh Kachhawa KD Batch-24 Azure!";
 		}
 	}
 
